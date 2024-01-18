@@ -139,7 +139,7 @@ namespace RolesAuth.Controllers
                 return NotFound();
             }
 
-            if (ModelState.IsValid)
+           /* if (ModelState.IsValid)*/
             {
                 try
                 {
